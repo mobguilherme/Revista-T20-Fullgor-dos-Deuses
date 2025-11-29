@@ -1,0 +1,47 @@
+{
+  "id": "fullgor-dos-deuses-rvt20",
+  "title": "Fullgor dos Deuses (Revista T20)",
+  "description": "Contéudo da campanha da Revista T20 - Fullgor dos Deuses",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13" 
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "tormenta20",
+        "type": "system",
+        "compatibility": {
+            "verified": "1.5.013" 
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "fullgor-dos-deuses-rv01",
+      "label": "Fullgor dos Deuses (RV01)",
+      "type": "Adventure",
+      "path": "./packs/fullgor-dos-deuses-rv01",
+      "system": "tormenta20",
+      "locked": true,
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "GAMEMASTER": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Fullgor dos Deuses",
+      "sorting": "m",
+      "color": "#6b0606",
+      "packs": [
+        "duelo-de-dragoes-rv08"
+      ]
+    }
+  ],
+  "manifest": "https://github.com/mobguilherme/Revista-T20-Fullgor-dos-Deuses/releases/latest/download/module.json",
+  "download": "https://github.com/mobguilherme/Revista-T20-Fullgor-dos-Deuses/releases/download/v0.1.0/fullgor-dos-deuses-rvt20.zip"
+}
