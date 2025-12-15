@@ -20,10 +20,10 @@
   },
   "packs": [
     {
-      "name": "fullgor-dos-deuses-rv01",
-      "label": "Fullgor dos Deuses (RV01)",
+      "name": "fullgor-dos-deuses-compendium",
+      "label": "Fullgor dos Deuses",
       "type": "Adventure",
-      "path": "./packs/fullgor-dos-deuses-rv01",
+      "path": "./packs/fullgor-dos-deuses-compendium",
       "system": "tormenta20",
       "locked": true,
       "ownership": {
@@ -36,9 +36,9 @@
     {
       "name": "Fullgor dos Deuses",
       "sorting": "m",
-      "color": "#6b0606",
+      "color": "#00008B",
       "packs": [
-        "duelo-de-dragoes-rv08"
+        "fullgor-dos-deuses-compendium"
       ]
     }
   ],

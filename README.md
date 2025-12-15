@@ -37,3 +37,11 @@ Para você ter certeza do que tem nesse módulo, basta verificar a ultima atuali
 2. Faça o Download do arquivo "BestiariodeArton.zip".
 3. Faça a descompactação do seu arquivo baixado na pasta de módulos do foundry, localizado no Data, caso precise de ajuda, visite: [FoundryVTT Configuration Guide](https://foundryvtt.com/article/configuration/#where-user-data '‌').
 4. Reinicie o Foundry se necessário.
+
+# Desenvolvedores 
+- mob_Guilherme
+- Edu
+
+# Manufatura dos Tokens e Mapas
+- AutoPeel
+- Veloci
