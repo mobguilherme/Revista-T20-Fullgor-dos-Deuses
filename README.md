@@ -33,7 +33,7 @@ Para você ter certeza do que tem nesse módulo, basta verificar a ultima atuali
 
 ### Instalação Manual
 
-1. Visite a [última versão](https://github.com/mobguilherme/Revista-T20-Fullgor-dos-Deuses/releases/download/v0.1.0/fullgor-dos-deuses-rvt20.zip).
+1. Visite a [última versão](https://github.com/mobguilherme/Revista-T20-Fullgor-dos-Deuses/releases/download/v0.4.0/fullgor-dos-deuses-rvt20.zip).
 2. Faça o Download do arquivo "BestiariodeArton.zip".
 3. Faça a descompactação do seu arquivo baixado na pasta de módulos do foundry, localizado no Data, caso precise de ajuda, visite: [FoundryVTT Configuration Guide](https://foundryvtt.com/article/configuration/#where-user-data '‌').
 4. Reinicie o Foundry se necessário.
@@ -45,3 +45,4 @@ Para você ter certeza do que tem nesse módulo, basta verificar a ultima atuali
 # Manufatura dos Tokens e Mapas
 - AutoPeel
 - Veloci
+- João
