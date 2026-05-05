@@ -2,10 +2,10 @@
   "id": "fullgor-dos-deuses-rvt20",
   "title": "Fullgor dos Deuses (Revista T20)",
   "description": "Contéudo da campanha da Revista T20 - Fullgor dos Deuses",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "compatibility": {
     "minimum": "13",
-    "verified": "13" 
+    "verified": "13"
   },
   "relationships": {
     "systems": [
@@ -13,7 +13,7 @@
         "id": "tormenta20",
         "type": "system",
         "compatibility": {
-            "verified": "1.5.013" 
+          "verified": "1.5.013"
         }
       }
     ]
@@ -37,11 +37,9 @@
       "name": "Fullgor dos Deuses",
       "sorting": "m",
       "color": "#00008B",
-      "packs": [
-        "fullgor-dos-deuses-compendium"
-      ]
+      "packs": ["fullgor-dos-deuses-compendium"]
     }
   ],
   "manifest": "https://github.com/mobguilherme/Revista-T20-Fullgor-dos-Deuses/releases/latest/download/module.json",
-  "download": "https://github.com/mobguilherme/Revista-T20-Fullgor-dos-Deuses/releases/download/v0.5.1/fullgor-dos-deuses-rvt20.zip"
+  "download": "https://github.com/mobguilherme/Revista-T20-Fullgor-dos-Deuses/releases/download/v0.6.0/fullgor-dos-deuses-rvt20.zip"
 }

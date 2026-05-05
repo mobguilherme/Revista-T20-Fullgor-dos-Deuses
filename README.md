@@ -20,25 +20,25 @@ Para você ter certeza do que tem nesse módulo, basta verificar a ultima atuali
 - 'v' é uma abreviação de versão;
 - '0' a não ser que o módulo esteja finalizado, o 0 irá se manter durante todo o percurso (quando finalizado, se tornará '1');
 - 'Y' é o número da revista, então se for 'v0.1.Z' o módulo contém o contéudo da Revista 01 e assim por diante;
-- 'Z' é o número mais arbritário e irá mudar caso esqueçamos de algo ou queremos consertar algum bug, então 'v0.1.2' significa que esquecemos de algo na 'v0.1.0' e estamos adicionando, toda vez que a Revista atualizar, o 'Z' será zerado. 
+- 'Z' é o número mais arbritário e irá mudar caso esqueçamos de algo ou queremos consertar algum bug, então 'v0.1.2' significa que esquecemos de algo na 'v0.1.0' e estamos adicionando, toda vez que a Revista atualizar, o 'Z' será zerado.
 
 ## Instalação
 
 ### Instalação Semi-Automatica
 
-1. Abra a página inicial do Foundry e navegue até a aba de módulos. 
+1. Abra a página inicial do Foundry e navegue até a aba de módulos.
 2. Clique em "Intalar Novo Módulo".
 3. Use o seguinte link de manifesto `https://github.com/mobguilherme/Revista-T20-Fullgor-dos-Deuses/releases/latest/download/module.json`
 4. Clique "Instalar."
 
 ### Instalação Manual
 
-1. Visite a [última versão](https://github.com/mobguilherme/Revista-T20-Fullgor-dos-Deuses/releases/download/v0.5.1/fullgor-dos-deuses-rvt20.zip).
+1. Visite a [última versão](https://github.com/mobguilherme/Revista-T20-Fullgor-dos-Deuses/releases/download/v0.6.0/fullgor-dos-deuses-rvt20.zip).
 2. Faça o Download do arquivo "BestiariodeArton.zip".
-3. Faça a descompactação do seu arquivo baixado na pasta de módulos do foundry, localizado no Data, caso precise de ajuda, visite: [FoundryVTT Configuration Guide](https://foundryvtt.com/article/configuration/#where-user-data '‌').
+3. Faça a descompactação do seu arquivo baixado na pasta de módulos do foundry, localizado no Data, caso precise de ajuda, visite: [FoundryVTT Configuration Guide](https://foundryvtt.com/article/configuration/#where-user-data "‌").
 4. Reinicie o Foundry se necessário.
 
-# Desenvolvedores 
+# Desenvolvedores
 - mob_guilherme
 - Edu
 
@@ -48,4 +48,5 @@ Para você ter certeza do que tem nesse módulo, basta verificar a ultima atuali
 - João
 
 # Esclarecimento sobre Mapas
-A partir da Revista 03, os mapas foram mais difíceis de encontrar, por isso a equipe preferiu se render ao uso de mapas públicos em redes sociais (reddit, facebook, etc). Para checar os creditos exatos, cheque o documento a parte chamado de `credits.md`. 
+
+A partir da Revista 03, os mapas foram mais difíceis de encontrar, por isso a equipe preferiu se render ao uso de mapas públicos em redes sociais (reddit, facebook, etc). Para checar os creditos exatos, cheque o documento à parte chamado de `credits.md`.
