@@ -17,6 +17,7 @@ Esse módulo não tem nada de suplementos e muito menos contém a história da c
 # Explicação sobre as versões
 
 Para você ter certeza do que tem nesse módulo, basta verificar a ultima atualização e ver a versão, todas elas serão no forma "v0.Y.Z", onde:
+
 - 'v' é uma abreviação de versão;
 - '0' a não ser que o módulo esteja finalizado, o 0 irá se manter durante todo o percurso (quando finalizado, se tornará '1');
 - 'Y' é o número da revista, então se for 'v0.1.Z' o módulo contém o contéudo da Revista 01 e assim por diante;
@@ -33,16 +34,18 @@ Para você ter certeza do que tem nesse módulo, basta verificar a ultima atuali
 
 ### Instalação Manual
 
-1. Visite a [última versão](https://github.com/mobguilherme/Revista-T20-Fullgor-dos-Deuses/releases/download/v0.8.0/fullgor-dos-deuses-rvt20.zip).
+1. Visite a [última versão](https://github.com/mobguilherme/Revista-T20-Fullgor-dos-Deuses/releases/download/v0.9.0/fullgor-dos-deuses-rvt20.zip).
 2. Faça o Download do arquivo "BestiariodeArton.zip".
 3. Faça a descompactação do seu arquivo baixado na pasta de módulos do foundry, localizado no Data, caso precise de ajuda, visite: [FoundryVTT Configuration Guide](https://foundryvtt.com/article/configuration/#where-user-data "‌").
 4. Reinicie o Foundry se necessário.
 
 # Desenvolvedores
+
 - mob_guilherme
 - Edu
 
 # Manufatura dos Tokens e Mapas
+
 - AutoPeel
 - Veloci
 - João
